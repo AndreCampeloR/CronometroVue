@@ -19,6 +19,7 @@
 </p>
 
 ## 📝 Sobre
+Projeto 1 - Cronometro 
 
 ## Projetos
 
